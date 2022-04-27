@@ -1,0 +1,5 @@
+★▶►▬•»›▲♥⚠️💡±×÷²√π⁰≠≈≤≥Ø∞✓✗✖ € ← → ↑ ↓ ⇆♪©Ⓓ㊿†₱…
+
+npm i -D webpack webpack-cli sass style-loader css-loader sass-loader html-webpack-plugin webpack-dev-server babel-loader @babel/core @babel/preset-env
+
+npm i -D webpack-bundle-analyzer
